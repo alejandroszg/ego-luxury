@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "audemars-piguet",
+      "img": "./assets/productos/ven.jpg",
+      "title": "Reloj Audemars 1 (Cat1)",
+      "price": 299,
+      "colors": ["bg-yellow-300"]
+    },
+    {
+      "id": 2,
+      "category": "audemars-piguet",
+      "img": "https://placehold.co/600x400",
+      "title": "Reloj Audemars 2 (Cat1)",
+      "price": 299,
+      "colors": ["bg-blue-500", "bg-green-500"]
+    },
+    {
+      "id": 3,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Presidente",
+      "price": 599,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 4,
+      "category": "casio-g-shock",
+      "img": "https://placehold.co/600x400",
+      "title": "Mudman G-Shock",
+      "price": 199,
+      "colors": ["bg-red-500", "bg-yellow-500"]
+    },
+    {
+      "id": 5,
+      "category": "technomarine",
+      "img": "https://placehold.co/600x400",
+      "title": "Grand Cruise",
+      "price": 199,
+      "colors": ["bg-stone-950", "bg-red-500"]
+    }
+  ]
+}
